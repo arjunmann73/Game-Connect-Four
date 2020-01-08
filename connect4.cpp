@@ -3,7 +3,10 @@ using namespace std;
 
 bool wincheck (int A[10][10], int row, int column, int player, int a, int b)
 {
-int i, j, direction[7] = {1,1,1,1,1,1,1}; //  0 is right, 1 is down,  2 is left, 3 is top-right, 4 is botton-right, 5 is bottom left, 6 is top left
+/*
+  0 is right, 1 is down,  2 is left, 3 is top-right, 4 is botton-right, 5 is bottom left, 6 is top left
+*/
+int i, j, direction[7] = {1,1,1,1,1,1,1}; 
 bool keep_going = true;
 int temp_a = a, temp_b = b;
 
