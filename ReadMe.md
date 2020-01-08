@@ -11,12 +11,11 @@
 ## Getting Started (on local machine)
 1. Clone the repository locally. 
 2. Change directory to the local repository.
-3. Compile the .cpp file: ``` python main.py ```
-4. Run the object file: 
-5. Run the code: ``` python main.py ```
+3. Compile the .cpp file: ```g++ connect4.cpp ```
+4. Run the object file: ``` ./a.out ```
 
 ## Built with
-1. [C++](https://www.tensorflow.org/)
+[C++](https://www.tensorflow.org/)
 
 
 ## Author
