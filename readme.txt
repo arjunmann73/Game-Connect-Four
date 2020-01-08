@@ -1,4 +1,4 @@
-CONNECT 4 
+# CONNECT 4 
 
 1) Enter size of the board (6X7 normally)
 2) Player 1 starts, enter correct coordinates and have fun!
