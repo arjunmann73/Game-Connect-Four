@@ -6,7 +6,7 @@
 4) 4 in a row wins!
 
 ## Working example
-![](Giffy.gif)
+![](gif.gif)
 
 ## Getting Started (on local machine)
 1. Clone the repository locally. 
